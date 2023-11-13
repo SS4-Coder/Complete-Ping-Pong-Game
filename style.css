@@ -1,0 +1,24 @@
+
+.copy_right_footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+color:rgb(209, 219, 228);
+background-color:rgb(62, 7, 52);
+line-height:3;
+text-align: center;
+}
+canvas{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
+.modal-body{
+text-align:left;
+font-size: 20px;
+}
+h4{
+background-color: peachpuff;
+color:brown;
+line-height: 2;
+}
